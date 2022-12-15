@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LuckyBroast</string>
+
+    <string-array name="category">
+        <item>Select category</item>
+        <item>Desi</item>
+        <item>BBQ</item>
+        <item>Chines</item>
+        <item>Fast food</item>
+        <item>Korangi</item>
+    </string-array>
+
+
+</resources>

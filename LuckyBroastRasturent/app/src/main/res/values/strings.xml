@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LuckyBroastRasturent</string>
+    <string name="text">Chicken Biryani in the nd of ban og nre nome olg jjsd some cheec nhun gopol boolkm .</string>
+    <string-array name="category">
+        <item>Select category</item>
+        <item>Desi</item>
+        <item>BBQ</item>
+        <item>Chines</item>
+        <item>Fast food</item>
+        <item>Drinks</item>
+        <item>Ice cream</item>
+        <item>Deals</item>
+        <item>Offers</item>
+    </string-array>
+</resources>
